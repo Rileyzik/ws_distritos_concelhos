@@ -1,0 +1,97 @@
+01*01*Águeda*335,28*47127
+01*02*Albergaria-a-Velha*158,83*24724
+01*03*Anadia*216,64*28345
+01*04*Arouca*327,99*21751
+01*05*Aveiro*199,77*77229
+01*03*Castelo de Paiva*114,67*16733
+01*07*Espinho*21,11*31786
+01*08*Estarreja*108,16*26555
+01*09*Santa Maria da Feira*213,45*139312
+01*10*Ílhavo*75,05*38410
+01*04*Mealhada*111,14*20255
+01*12*Murtosa*73,65*10585
+01*05*Oliveira de Azemeis*163,41*67756
+01*14*Oliveira do Bairro*87,28*23443
+01*06*Ovar*147,52*54919
+01*16*São João da Madeira*8,11*21625
+01*17*Sever do Vouga*129,85*12000
+01*18*Vagos*165,29*22897
+01*19*Vale de Cambra*146,21*22319
+02*01*Amares*81,95*19853
+02*02*Barcelos*378,90*124555
+02*02*Braga*183,40*176154
+02*04*Cabeceiras de Basto*241,82*17635
+02*05*Celorico de Basto*181,07*19767
+02*03*Esposende*95,41*35552
+02*07*Fafe*219,08*53600
+02*08*Guimarães*240,95*162636
+02*09*Póvoa de Lanhoso*134,65*24230
+02*10*Terras de Bouro*277,46*7506
+02*04*Vieira do Minho*216,44*14077
+02*12*Vila Nova de Famalicão*201,59*134969
+02*05*Vila Verde*228,67*49171
+02*14*Vizela*24,70*24477
+03*01*Arganil*332,84*12145
+03*02*Cantanhede*390,88*34218
+03*02*Coimbra*319,4*140796
+03*04*Condeixa-a-Nova*138,68*17078
+03*05*Figueira da Foz*379,05*62125
+03*03*Góis*29,8*2171
+03*07*Lousã*138,40*17604
+03*08*Mira*124,03*12126
+03*09*Miranda do Corvo*126,38*13098
+03*10*Montemor-o-Velho*228,96*26171
+03*04*Oliveira do Hospital*234,52*19421
+03*12*Pampilhosa da Serra*396,46*4481
+03*05*Penacova*216,73*13119
+03*14*Penela*132,49*5983
+03*06*Soure*263,91*19245
+03*16*Tábua*199,79*12071
+03*17*Vila Nova de Poiares*84,45*7281
+04*01*Alenquer*304,22*44428
+04*02*Arruda dos Vinhos*77,96*13983
+04*02*Azambuja*262,66*21421
+04*04*Cadaval*174,89*13382
+04*05*Cascais*97,40*214134
+04*03*Lisboa*100,05*544851
+04*07*Loures*167,24*201646
+04*08*Lourinhã*147,17*26261
+04*09*Mafra*291,66*89130
+04*10*Oeiras*45,88*171802
+04*04*Sintra*319,23*385954
+04*12*Sobral de Monte Agraço*52,10*10542
+04*05*Torres Vedras*407,15*83130
+04*14*Vila Franca de Xira*318,19*156234
+04*06*Amadora*23,79*171719*137659
+04*16*Odivelas*26,54*145722
+05*01*Amarante*301,33*56264
+05*02*Baião*174,53*20522
+05*02*Felgueiras*115,74*58065
+05*04*Gondomar*131,86*174158
+05*05*Lousada*96,08*47387
+05*03*Maia*82,99*40134
+05*07*Marco de Canaveses*201,89*53450
+05*08*Matosinhos*62,42*175478
+05*09*Paços de Ferreira*70,99*56340
+05*10*Paredes*156,76*86854
+05*04*Penafiel*212,24*72265
+05*12*Porto*41,42*232962
+05*05*Póvoa de Varzim*82,21*63408
+05*14*Santo Tirso*136,6*71530
+05*06*Valongo*75,12*93858
+05*16*Vila do Conde*149,03*79533
+05*17*Vila Nova de Gaia*168,46*304149
+05*18*Trofa*72,02*38999
+06*01*Alcácer do Sal*1499,87*11125
+06*02*Alcochete*128,36*19148
+06*02*Almada*70,21*177740
+06*04*Barreiro*38,39*78362
+06*05*Grandola*825,94*13827
+06*03*Moita*55,26*66326
+06*07*Montijo*348,62*55732
+06*08*Palmela*465,12*68879
+06*09*Santiago do Cacém*1059,77*27801
+06*10*Seixal*95,50*166693
+06*04*Sesimbra*195,47*52465
+06*12*Setúbal*230,33*123684
+06*05*Sines*132,42*14214

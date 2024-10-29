@@ -1,0 +1,8 @@
+01*Aveiro
+02*Braga
+03*Coimbra
+04*Lisboa
+05*Porto
+06*Setúbal
+
+
